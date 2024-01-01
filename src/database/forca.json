@@ -1,0 +1,82 @@
+[
+  {
+    "id": "559295319019@s.whatsapp.net",
+    "word_original": "prazer",
+    "word": "prazer",
+    "under_word": "------",
+    "array_word": [
+      "p",
+      "r",
+      "a",
+      "z",
+      "e",
+      "r"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 6,
+    "attempts": 4
+  },
+  {
+    "id": "557996265066@s.whatsapp.net",
+    "word_original": "palavras",
+    "word": "p0l0vr0s",
+    "under_word": "--------",
+    "array_word": [
+      "p",
+      0,
+      "l",
+      0,
+      "v",
+      "r",
+      0,
+      "s"
+    ],
+    "array_under_word": [
+      "-",
+      "a",
+      "-",
+      "a",
+      "-",
+      "-",
+      "a",
+      "-"
+    ],
+    "tam": 8,
+    "attempts": 4
+  },
+  {
+    "id": "558282318161@s.whatsapp.net",
+    "word_original": "positivo",
+    "word": "positivo",
+    "under_word": "--------",
+    "array_word": [
+      "p",
+      "o",
+      "s",
+      "i",
+      "t",
+      "i",
+      "v",
+      "o"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 8,
+    "attempts": 4
+  }
+]
